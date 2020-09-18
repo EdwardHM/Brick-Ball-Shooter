@@ -5,7 +5,7 @@ Unity Version: 2018.3.6
 APK yang di build belum responsif sehingga pada beberapa smartphone tampilan game akan berantakan.
 
 Created By:
-Edward Hendryawan Michael & Reinaldo Sebastian Gunawan	
+Edward H.M & Reinaldo S.G
 
 Purpose:
 Projek UAS
